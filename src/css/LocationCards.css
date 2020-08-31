@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.clear{
+    clear: both;
+}
+.wrapper{
+    width: 1200px;
+    margin:0px auto;
+}
+
+.Loc-Card-Container{
+    text-align: center;
+    height: 800px;
+    width: 100%;
+}
+.locationHeading{
+    height: 140px;
+}
+.LocationCardView{
+    text-align: center;
+}

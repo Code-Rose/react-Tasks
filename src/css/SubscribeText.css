@@ -1,0 +1,46 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.clear{
+    clear: both;
+}
+.wrapper{
+    width: 1200px;
+    margin:0px auto;
+}
+.Sub-Container{
+    height: 370px;
+}
+.SubscribeText-Container{
+    height: 270px;
+    width: 100%;
+    background-color: #358DCC;
+}
+
+.SubscriptionQuote{
+    float: left;
+    width: 700px;
+    text-align: left;
+    margin-top: 100px;
+}
+.SubscriptionQuote p{
+    font-size:30px;
+    font-weight: 600;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Subscription-btn{
+    padding-top: 120px;
+
+}
+.Subscription-btn a{
+    padding: 15px 50px; 
+    background-color: cornsilk;
+    border-radius: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #358DCC;
+    }

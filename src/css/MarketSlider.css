@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.clear{
+    clear: both;
+}
+.wrapper{
+    width: 1200px;
+    margin:0px auto;
+}
+
+
+.Market{
+    height: 600px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.MarketHeading{
+    height: 100px;
+}

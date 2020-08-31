@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.clear{
+    clear: both;
+}
+.wrapper{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+
+.FranchisesCards{
+    height: 200px;
+    width: 350px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.FranchisesCards p{
+    font-size: 20px;
+    padding: 40px 20px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}

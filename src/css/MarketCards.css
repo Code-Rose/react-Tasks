@@ -1,0 +1,26 @@
+
+
+.MarketCard{
+    width: 300px;
+    height: 200px;
+    background-color: turquoise;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: -10px 10px;
+}
+
+.CardNames{
+    margin-top: 75px;
+}
+
+.CardNames .MapMarker{
+    float: left;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.CardNames .View-btn{
+    float: right;
+    margin-right: 30px;
+    font-size: 25px;
+
+}

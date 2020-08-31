@@ -1,0 +1,27 @@
+.Category{
+    height: 860px;
+    background-color: #A1A1C6;
+    text-align: center;
+}
+
+.CategoryCard{
+    padding-top: 160px;
+}
+.CategoryCard h1{
+    margin-bottom: 100px;
+}
+
+.linkview{
+    margin-top: 100px;
+}
+.linkview a{
+    padding: 15px 30px;
+    display: inline-block;
+    width: 130px;
+    border-radius: 30px;
+    background-color: #3F3FEC;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}

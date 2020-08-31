@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.clear{
+    clear: both;
+}
+.wrapper{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+.FeatureCard{
+    height: 250px;
+    width: 290px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.FeatureCard img{
+    height: 150px;
+    width: 290px;
+}
+.FeatureCard h4{
+    text-align: left;
+    padding:10px 20px;
+}
+
+.FeatureCard a{
+    text-decoration: none;
+    text-align: left;
+    color: #2E75AF;
+    padding: 20px;
+}
